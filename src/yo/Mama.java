@@ -8,5 +8,9 @@ public class Mama {
 		howFat="bruh";
 		
 	}
+	public void geInfo(String howFat) {
+		howFat="A day passed after she walked by";
+		
+	}
 
 }
